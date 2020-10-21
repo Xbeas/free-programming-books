@@ -116,6 +116,7 @@
 
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
+* [Linux BASH](https://onlinecourses.swayam2.ac.in/aic20_sp05/preview) - Kannan Moudgalya (Swayam)
 
 
 ### Bootstrap
@@ -376,6 +377,7 @@
 * [Linux Operating System Fundamentals](https://www.udemy.com/course/linux-academy-linux-operating-system-fundamentals/) - Linux Academy (Udemy)
 * [Linux Tutorials and Projects](https://www.udemy.com/course/linux-tutorials/) - Jason Cannon (Udemy)
 * [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat, Inc. (Udemy)
+* [Linux Operating System](https://onlinecourses.swayam2.ac.in/aic20_sp24/preview) - Prof. Kannan Moudgalya (Swayam)
 
 
 ### Lua
